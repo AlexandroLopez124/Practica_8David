@@ -4,10 +4,10 @@ import math
 class Calculator:
 
     def sum(self, a: int, b: int) -> int:
-        return a - b  
+        return a + b  
 
     def substract(self, a: int, b: int) -> int:
-        return a + b  
+        return a - b  
 
     def multiply(self, a: int, b: int) -> int:
         return a + b  
